@@ -60,6 +60,6 @@
         gibt die neuen Textzeilen, denen ich auf twitter.com folge, im Abstand
         von 60 Sekunden aus.
         
-        That´s it, have fun!
+        Thats it, have fun!
         
         
